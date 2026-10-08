@@ -1,0 +1,6 @@
+.env
+.env.*
+*.zip
+*.csv
+*.jsonl
+__pycache__/
